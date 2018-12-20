@@ -16,7 +16,13 @@ p {
 	font-size: 0.85em;
   font-family: 'Merriweather', serif;
   color: #e2dee2;
-  margin-right: 40%;
-  float: right;
+  width: 40%;
+  text-align: center;
 }
+h2 {
+   margin-left: 2%;
+   font-size: 2.5em;
+   color: #e2dee2;
+}
+
 
